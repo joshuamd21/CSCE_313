@@ -1,0 +1,4 @@
+For person 5, at time 59.996, the value of ecg 2 is -0.685
+Client-side is done and exited
+Server terminated
+Client terminated
